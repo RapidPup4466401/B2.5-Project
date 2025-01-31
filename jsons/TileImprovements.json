@@ -1,5 +1,13 @@
 [	
+
+///Perhaps change into one tile, such as Research/Education Sector and have those singular tiles change over time as new tech is researched instead of 
 ///Industy Zones
+	{
+		"name": "Production Zone",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 3,
+		"techRequired": "Industrialization",
+	},
 	{
 		"name": "Factory District",
 		"terrainsCanBeBuiltOn": ["Land"],
