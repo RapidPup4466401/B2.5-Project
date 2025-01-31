@@ -1,1 +1,132 @@
-
+[	
+///Industy Zones
+	{
+		"name": "Factory District",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 3,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Industrial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 8,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Industrial Park",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 12,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Developed Industrial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 18,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Advanced Industrial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 25,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Automated Industrial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 30,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Future Industrial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 40,
+		"techRequired": "Industrialization",
+	},
+    
+///Economic Zones
+	{
+		"name": "Market",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 2,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Commerce District",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 5,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Commercial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 10,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Developed Commercial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 14,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Advanced Commercial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 20,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Automated Commercial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 25,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Future Commerical Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 30,
+		"techRequired": "Industrialization",
+	},
+///Science Zones
+	{
+		"name": "Research Zone",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 2,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Education District",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 2,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Commercial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 2,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Developed Commercial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 2,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Advanced Commercial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 2,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Automated Commercial Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 2,
+		"techRequired": "Industrialization",
+	},
+    {
+		"name": "Future Commerical Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 2,
+		"techRequired": "Industrialization",
+	},
+]	
