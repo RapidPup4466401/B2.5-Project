@@ -333,9 +333,8 @@
 		"techRequired": "Industrialization",
 	},
 	
-	///Residential Zones
-
-	///Villages -> Parish -> Slums/Tenements. Slums -> Suburbs, Tenements -> Apartments. Suburbs -> Smart Homes, Apartments -> Skyscrapers -> Future Skyscrapers
+///Residential Zones
+//Villages -> Parish -> Slums/Tenements. Slums -> Suburbs, Tenements -> Apartments. Suburbs -> Smart Homes, Apartments -> Skyscrapers -> Future Skyscrapers
 	{
 		"name": "Village",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -413,7 +412,7 @@
 	},
 
 	
-///Miscellaneous
+///Miscellaneous Science Addons
 	{
 		"name": "Testing Zone",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -434,7 +433,7 @@
 	},
 
 /// Logistics
-///Harbor -> Dockyard -> Shipyard, Shipyard does not replace, but enables construction of Seaport.
+//Harbor -> Dockyard -> Shipyard, Shipyard does not replace, but enables construction of Seaport.
 	{
 		"name": "Harbor",
 		"terrainsCanBeBuiltOn": ["Coast"],
@@ -524,5 +523,5 @@
 		"name": "Biomass Power Plant",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
-	},
+	}
 ]	
