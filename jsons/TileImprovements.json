@@ -6,49 +6,113 @@
 		"name": "Production Zone",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 3,
-		"techRequired": "Industrialization",
+		"techRequired": "Engineering",
+		"uniques":
+		[
+			"Unbuildable",
+			"Removes removable features when built",
+			"Costs [2] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+		]
 	},
 	{
 		"name": "Factory District",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 3,
 		"techRequired": "Industrialization",
+		"uniques":
+		[
+			"Unbuildable",
+			"Removes removable features when built",
+			"Costs [3] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+		]
 	},
     	{
 		"name": "Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 8,
-		"techRequired": "Industrialization",
+		"techRequired": "Steam Power",
+		"uniques":
+		[
+			"Unbuildable",
+			"Removes removable features when built",
+			"Costs [5] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+		]
 	},
     	{
 		"name": "Industrial Park",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 12,
-		"techRequired": "Industrialization",
+		"techRequired": "Replaceable Parts",
+		"uniques":
+		[
+			"Unbuildable",
+			"Removes removable features when built",
+			"Costs [6] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+		]
 	},
     	{
 		"name": "Developed Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 18,
-		"techRequired": "Industrialization",
+		"techRequired": "Combustion",
+		"uniques":
+		[
+			"Unbuildable",
+			"Removes removable features when built",
+			"Costs [8] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+		]
 	},
    	{
 		"name": "Advanced Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 25,
-		"techRequired": "Industrialization",
+		"techRequired": "Computers",
+		"uniques":
+		[
+			"Unbuildable",
+			"Removes removable features when built",
+			"Costs [9] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+		]
 	},
     	{
 		"name": "Automated Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 30,
-		"techRequired": "Industrialization",
+		"techRequired": "Robotics",
+		"uniques":
+		[
+			"Unbuildable",
+			"Removes removable features when built",
+			"Costs [11] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+		]
 	},
     	{
 		"name": "Future Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 40,
-		"techRequired": "Industrialization",
+		"techRequired": "Nanotechnology",
+		"uniques":
+		[
+			"Unbuildable",
+			"Removes removable features when built",
+			"Costs [15] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+		]
 	},
     
 ///Economic Zones
@@ -56,7 +120,7 @@
 		"name": "Market Zone",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 2,
-		"techRequired": "Industrialization",
+		"techRequired": "Currency",
 	},
    	{
 		"name": "Commerce District",
