@@ -1,6 +1,5 @@
 [	
-
-///Perhaps change into one tile, such as Research/Education Sector and have those singular tiles change over time as new tech is researched instead of 
+	
 ///Industy Zones
 	{
 		"name": "Production Zone",
@@ -128,19 +127,19 @@
 		"gold": 5,
 		"techRequired": "Industrialization",
 	},
-    {
+    	{
 		"name": "Commercial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 10,
 		"techRequired": "Industrialization",
 	},
-    {
+	{
 		"name": "Developed Commercial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 14,
 		"techRequired": "Industrialization",
 	},
-    {
+	{
 		"name": "Advanced Commercial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 20,
@@ -524,4 +523,4 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	}
-]	
+]
