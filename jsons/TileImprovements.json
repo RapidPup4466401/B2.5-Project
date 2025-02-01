@@ -14,37 +14,37 @@
 		"production": 3,
 		"techRequired": "Industrialization",
 	},
-    {
+    	{
 		"name": "Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 8,
 		"techRequired": "Industrialization",
 	},
-    {
+    	{
 		"name": "Industrial Park",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 12,
 		"techRequired": "Industrialization",
 	},
-    {
+    	{
 		"name": "Developed Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 18,
 		"techRequired": "Industrialization",
 	},
-    {
+   	{
 		"name": "Advanced Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 25,
 		"techRequired": "Industrialization",
 	},
-    {
+    	{
 		"name": "Automated Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 30,
 		"techRequired": "Industrialization",
 	},
-    {
+    	{
 		"name": "Future Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 40,
@@ -53,12 +53,12 @@
     
 ///Economic Zones
 	{
-		"name": "Market",
+		"name": "Market Zone",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 2,
 		"techRequired": "Industrialization",
 	},
-    {
+   	{
 		"name": "Commerce District",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 5,
@@ -82,59 +82,345 @@
 		"gold": 20,
 		"techRequired": "Industrialization",
 	},
-    {
+	{
 		"name": "Automated Commercial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 25,
 		"techRequired": "Industrialization",
 	},
-    {
+	{
 		"name": "Future Commerical Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 30,
 		"techRequired": "Industrialization",
 	},
-///Science Zones
+	
+///Research Zones
 	{
 		"name": "Research Zone",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 2,
 		"techRequired": "Industrialization",
 	},
-    {
+	{
+		"name": "Research District",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 4,
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Research Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 8,
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Developed Research Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 12,
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Advanced Research Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 16,
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Automated Research Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 20,
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Future Research Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 24,
+		"techRequired": "Industrialization",
+	},
+	
+///Education Zones
+	{
+		"name": "Education Zone",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 1,
+		"techRequired": "Industrialization",
+	},
+	{
 		"name": "Education District",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"science": 2,
+		"science": 3,
 		"techRequired": "Industrialization",
 	},
-    {
-		"name": "Commercial Sector",
+	{
+		"name": "Education Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 5,
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Developed Education Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 9,
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Advanced Education Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 12,
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Automated Education Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 17,
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Future Education Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 25,
+		"techRequired": "Industrialization",
+	},
+	
+///Culture Zones
+	{
+		"name": "Cultural Area",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Entertainment District",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Entertainment Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Developed Entertainment Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Advanced Entertainment Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Automated Entertainment Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Future Entertainment Sector",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	
+///Military Zones
+	{
+		"name": "Outpost",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Training Base",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Military Base",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Developed Military Base",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Advanced Military Base",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Future Military Base",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	
+///Religious Zones
+	{
+		"name": "Monument",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Temple",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Large Temple",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	
+	///Residential Zones
+
+	///Villages -> Parish -> Slums/Tenements. Slums -> Suburbs, Tenements -> Apartments. Suburbs -> Smart Homes, Apartments -> Skyscrapers -> Future Skyscrapers
+	{
+		"name": "Village",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Parish",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Slums",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Tenements",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Suburbs",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Apartments",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Smart Homes",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Skyscrapers",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Future Skyscrapers",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+
+///Miscellaneous Entertainment Addons
+	{
+		"name": "Stadium",
+		"culture": 5,
+		"happiness": 3,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Colloseum",
+		"culture": 2,
+		"happiness": 1,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Race Track",
+		"culture": 4,
+		"happiness": 2,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Golf Course",
+		"culture": 2,
+		"happiness": 1,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+
+	
+///Miscellaneous
+	{
+		"name": "Testing Zone",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 2,
 		"techRequired": "Industrialization",
 	},
-    {
-		"name": "Developed Commercial Sector",
+	{
+		"name": "Testing Site",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"science": 2,
+		"science": 4,
 		"techRequired": "Industrialization",
 	},
-    {
-		"name": "Advanced Commercial Sector",
+	{
+		"name": "Experimentation Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"science": 2,
+		"science": 10,
 		"techRequired": "Industrialization",
 	},
-    {
-		"name": "Automated Commercial Sector",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"science": 2,
+
+/// Logistics
+///Harbor -> Dockyard -> Shipyard, Shipyard does not replace, but enables construction of Seaport.
+	{
+		"name": "Harbor",
+		"terrainsCanBeBuiltOn": ["Coast"],
 		"techRequired": "Industrialization",
 	},
-    {
-		"name": "Future Commerical Sector",
+	{
+		"name": "Dockyard",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Shipyard",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Seaport",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"techRequired": "Industrialization",
+	},
+//Individual
+	{
+		"name": "Warehouses District",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"science": 2,
+		"production": 10,
+		"techRequired": "Industrialization",
+	},
+//Individual
+	{
+		"name": "Railyard",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 10,
+		"techRequired": "Industrialization",
+	},
+//Individual
+	{
+		"name": "Logistical Hub",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+//Individual
+	{
+		"name": "Airport",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+//Individual
+	{
+		"name": "Spaceport",
+		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
 ]	
