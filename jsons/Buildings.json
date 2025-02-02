@@ -1,7 +1,7 @@
 [
 	//Base Production Buildings
 	{
-		"name": "Workshop",
+		"name": "Production Zone",
 		"maintenance": 1,
 		"cost": 100,
 		"hurryCostModifier": 25,
