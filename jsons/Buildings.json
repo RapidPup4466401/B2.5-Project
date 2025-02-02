@@ -2,16 +2,15 @@
 	//Base Production Buildings
 	{
 		"name": "Workshop",
-                "replaces": "Workshop"
-		"maintenance": 2,
-		"production": 2,
-		"specialistSlots": {"Engineer": 1},
+		"maintenance": 1,
+		"cost": 100,
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"production": 10},
+		"percentStatBonus": {"production": 5},
 		"requiredTech": "Metal Casting"
 		"uniques": 
                 [
-                       "Creates a [Production Zone] improvement on a specific tile" 
+			"Creates a [Production Zone] improvement on a specific tile" ,
+			"Only available <if [Workshop] is constructed> <in this city>" 
                 ],
 	},
 ]
