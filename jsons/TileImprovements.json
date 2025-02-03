@@ -8,7 +8,6 @@
 		"techRequired": "Engineering",
 		"uniques":
 		[
-			"Unbuildable",
 			"Removes removable features when built",
 			"Costs [2] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
@@ -22,7 +21,6 @@
 		"techRequired": "Industrialization",
 		"uniques":
 		[
-			"Unbuildable",
 			"Removes removable features when built",
 			"Costs [3] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
@@ -36,7 +34,6 @@
 		"techRequired": "Steam Power",
 		"uniques":
 		[
-			"Unbuildable",
 			"Removes removable features when built",
 			"Costs [5] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
@@ -50,7 +47,6 @@
 		"techRequired": "Replaceable Parts",
 		"uniques":
 		[
-			"Unbuildable",
 			"Removes removable features when built",
 			"Costs [6] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
@@ -64,7 +60,6 @@
 		"techRequired": "Combustion",
 		"uniques":
 		[
-			"Unbuildable",
 			"Removes removable features when built",
 			"Costs [8] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
@@ -78,7 +73,6 @@
 		"techRequired": "Computers",
 		"uniques":
 		[
-			"Unbuildable",
 			"Removes removable features when built",
 			"Costs [9] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
@@ -92,7 +86,6 @@
 		"techRequired": "Robotics",
 		"uniques":
 		[
-			"Unbuildable",
 			"Removes removable features when built",
 			"Costs [11] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
@@ -106,7 +99,6 @@
 		"techRequired": "Nanotechnology",
 		"uniques":
 		[
-			"Unbuildable",
 			"Removes removable features when built",
 			"Costs [15] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
