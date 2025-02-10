@@ -1,1 +1,66 @@
-
+[
+///5 Stages of Economic Downturn
+	{
+		"name": "The people are unhappy!",
+		"text": "As the living conditions of our citizens fall and small mistakes slowly add up, our citizens are beginning to suffer from economic turmoil. What will you do?",
+		"choices": 
+    [{
+        "text": "Increase surveillance",
+        "uniques": [""]
+    },{
+        "text": "Do nothing.",
+        "uniques": [""]
+	}]
+	},
+    {
+		"name": "People are restless!",
+		"text": "The people are beginning to form groups and organizations to protest and boycott government institutions.",
+		"choices": 
+    [{
+        "text": "Start monitoring key citizens.",
+        "uniques": [""]
+    },{
+        "text": "Do nothing.",
+        "uniques": [""]
+	}]
+	},
+    {
+		"name": "The citizens of our nation are questioning the government.",
+		"text": "",
+		"choices": 
+    [{
+        "text": "Reassure the citizens with broadcasts.",
+        "uniques": [""]
+    },{
+        "text": "Do nothing.",
+        "uniques": [""]
+	}]
+	},
+    {
+		"name": "Small groups are rioting in the streets!",
+		"text": "",
+		"choices": 
+    [{
+        "text": "Have the military establish order in the cities.",
+        "uniques": [""]
+    },{
+        "text": "Hold a public rally.",
+        "uniques": [""]
+    },{
+        "text": "Do nothing.",
+        "uniques": [""]
+	}]
+	},
+    {
+		"name": "Citizens are in open revolt!",
+		"text": "",
+		"choices": 
+    [{
+        "text": "We shall eliminate this threat to our nation.",
+        "uniques": [""]
+    },{
+        "text": "Send diplomats to the rebel leaders.",
+        "uniques": [""]
+	}]
+	}
+]
