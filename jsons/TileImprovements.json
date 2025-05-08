@@ -302,7 +302,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
-/Airbase+Dronebase+Seabase+Developed MIlitary Base = Advanced Military Base
+	//Airbase+Dronebase+Seabase+Developed MIlitary Base = Advanced Military Base
 	{
 		"name": "Airbase",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -387,14 +387,13 @@
 			"Can only be built <in [Dronebase] tiles>"
 		]
 	},
-/AMB+AA+AS+AD=Future Military Base
+	//AMB+AA+AS+AD=Future Military Base
 	{
 		"name": "Future Military Base",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
-/Misc Military Zones that are more like side-zones that are not required to advance the tree of military zones to a higher degree
-
+	//Misc Military Zones that are more like side-zones that are not required to advance the tree of military zones to a higher degree
 	{
 		"name": "SAM Site",
 		"terrainsCanBeBuiltOn": ["Land"],
