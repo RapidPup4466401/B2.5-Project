@@ -15,10 +15,10 @@
 		]
 	},
 	{
-		"name": "Factory District",
+		"name": "Production District",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 3,
-		"techRequired": "Industrialization",
+		"techRequired": "Metallurgy",
 		"uniques":
 		[
 			"Removes removable features when built",
@@ -31,7 +31,7 @@
 		"name": "Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 8,
-		"techRequired": "Steam Power",
+		"techRequired": "Industrialization",
 		"uniques":
 		[
 			"Removes removable features when built",
