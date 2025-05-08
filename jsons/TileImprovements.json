@@ -24,7 +24,8 @@
 			"Removes removable features when built",
 			"Costs [3] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Can only be built <in [Production Zone] tiles>"
 		]
 	},
     	{
@@ -37,7 +38,8 @@
 			"Removes removable features when built",
 			"Costs [5] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Can only be built <in [Production District] tiles>"
 		]
 	},
     	{
@@ -50,7 +52,8 @@
 			"Removes removable features when built",
 			"Costs [6] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Can only be built <in [Industrial Sector] tiles>"
 		]
 	},
     	{
@@ -63,7 +66,8 @@
 			"Removes removable features when built",
 			"Costs [8] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Can only be built <in [Industrial Park] tiles>"
 		]
 	},
    	{
@@ -76,7 +80,8 @@
 			"Removes removable features when built",
 			"Costs [9] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Can only be built <in [Developed Industrial Sector] tiles>"
 		]
 	},
     	{
@@ -89,7 +94,8 @@
 			"Removes removable features when built",
 			"Costs [11] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Can only be built <in [Advanced Industrial Sector] tiles>"
 		]
 	},
     	{
@@ -102,7 +108,8 @@
 			"Removes removable features when built",
 			"Costs [15] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Can only be built <in [Automated Industrial Sector] tiles>"
 		]
 	},
     
@@ -296,15 +303,108 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
+/Airbase+Dronebase+Seabase+Developed MIlitary Base = Advanced Military Base
+	{
+		"name": "Airbase",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+		"uniques":
+		[
+			"Removes removable features when built",
+			"Costs [1] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Can only be built <in tiles adjacent to [Developed Military Base] tiles>"
+		]
+	},
+	{
+		"name": "Dronebase",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+		"uniques":
+		[
+			"Removes removable features when built",
+			"Costs [1] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Can only be built <in tiles adjacent to [Developed Military Base] tiles>"
+		]
+	},
+	{
+		"name": "Seabase",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"techRequired": "Industrialization",
+		"uniques":
+		[
+			"Removes removable features when built",
+			"Costs [1] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Can only be built <in tiles adjacent to [Developed Military Base] tiles>"
+		]
+	},
 	{
 		"name": "Advanced Military Base",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
+		"uniques":
+		[
+			"Removes removable features when built",
+			"Costs [5] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Can only be built <in [Developed Military Base] tiles>"
+		]
 	},
+	{
+		"name": "Advanced Airbase",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+		"uniques":
+		[
+			"Removes removable features when built",
+			"Costs [2] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Can only be built <in [Airbase] tiles>"
+		]
+	},
+	{
+		"name": "Advanced Seabase",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"techRequired": "Industrialization",
+		"uniques":
+		[
+			"Removes removable features when built",
+			"Costs [2] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Can only be built <in [Seabase] tiles>"
+		]
+	},
+	{
+		"name": "Advanced Dronebase",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+		"uniques":
+		[
+			"Removes removable features when built",
+			"Costs [2] [Gold] per turn when in your territory",
+			"Will not be replaced by automated units",
+			"Can only be built <in [Dronebase] tiles>"
+		]
+	},
+/AMB+AA+AS+AD=Future Military Base
 	{
 		"name": "Future Military Base",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
+	},
+/Misc Military Zones that are more like side-zones that are not required to advance the tree of military zones to a higher degree
+
+	{
+		"name": "SAM Site",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Mobile Tactics",
+	},
+	{
+		"name": "Launch Silos",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Nuclear Fission",
 	},
 	
 ///Religious Zones
