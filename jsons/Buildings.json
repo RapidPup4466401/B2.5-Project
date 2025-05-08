@@ -10,8 +10,96 @@
 		"uniques": 
                 [
 			"Creates a [Production Zone] improvement on a specific tile" ,
-			"Only available <if [Workshop] is constructed> <in this city>" 
+			"Only available <if [Workshop] is constructed> <in this city>",
+			"Industry"
                 ],
+	},
+	{
+		"name": "Production District",
+		"maintenance": 1,
+		"cost": 500,
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 5},
+		"requiredTech": "Metallurgy"
+		"uniques": 
+                [
+			"Creates a [Production District] improvement on a specific tile" ,
+			"Must have an owned [Production Zone] within [3] tiles", 
+			"Industry"
+                ],
+	},
+    	{
+		"name": "Industrial Sector",
+		"maintenance": 1,
+		"cost": 1000,
+		"techRequired": "Industrialization",
+		"uniques":
+		[
+			"Creates a [Industrial Sector] improvement on a specific tile" ,
+			"Only available <if [Factory] is constructed> <in this city>",
+			"Must have an owned [Production District] within [3] tiles", 
+			"Industry"
+		]
+	},
+    	{
+		"name": "Industrial Park",
+		"maintenance": 1,
+		"cost": 2000,
+		"techRequired": "Replaceable Parts",
+		"uniques":
+		[
+			"Creates a [Industrial Park] improvement on a specific tile" ,
+			"Must have an owned [Industrial Sector] within [3] tiles", 
+			"Industry"
+		]
+	},
+    	{
+		"name": "Developed Industrial Sector",
+		"maintenance": 1,
+		"cost": 4000,
+		"techRequired": "Combustion",
+		"uniques":
+		[
+			"Creates a [Developed Industrial Sector] improvement on a specific tile" ,
+			"Must have an owned [Industrial Park] within [3] tiles", 
+			"Industry"
+		]
+	},
+   	{
+		"name": "Advanced Industrial Sector",
+		"maintenance": 1,
+		"cost": 8000,
+		"techRequired": "Computers",
+		"uniques":
+		[
+			"Creates a [Advanced Industrial Sector] improvement on a specific tile" ,
+			"Must have an owned [Developed Industrial Sector] within [3] tiles", 
+			"Industry"
+		]
+	},
+    	{
+		"name": "Automated Industrial Sector",
+		"maintenance": 1,
+		"cost": 16000,
+		"techRequired": "Robotics",
+		"uniques":
+		[
+			"Creates a [Automated Industrial Sector] improvement on a specific tile" ,
+			"Must have an owned [Advanced Industrial Sector] within [3] tiles", 
+			"Industry"
+		]
+	},
+    	{
+		"name": "Future Industrial Sector",
+		"maintenance": 1,
+		"cost": 32000,
+		"techRequired": "Nanotechnology",
+		"uniques":
+		[
+			"Creates a [Future Industrial Sector] improvement on a specific tile" ,
+			"Must have an owned [Automated Industrial Sector] within [3] tiles", 
+			"Industry"
+		]
 	},
 ]
         
