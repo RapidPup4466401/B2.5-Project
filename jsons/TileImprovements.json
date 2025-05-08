@@ -576,7 +576,7 @@
 		"techRequired": "Industrialization",
 	},
 
-///Energy Production Sites [NOT SURE IF TO BE INTEGRATED YET]
+///Energy Production Sites NOT SURE IF TO BE INTEGRATED YET
 //Individual
 	{
 		"name": "Coal Power Plant",
