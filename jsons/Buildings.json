@@ -34,7 +34,7 @@
 			"Creates a [Industrial Sector] improvement on a specific tile" ,
 			"Only available <if [Factory] is constructed> <in this city>",
 			"Remove [Industrial Sector] [in this city] <if [Industrial Sector] is constructed>",
-			"Unavailable <after discovering [Replaceable Parts>" 
+			"Unavailable <after discovering [Replaceable Parts]>" 
 		]
 	},
     	{
@@ -45,7 +45,7 @@
 		[
 			"Creates a [Industrial Park] improvement on a specific tile" ,
 			"Remove [Industrial Park] [in this city] <if [Industrial Park] is constructed>",
-			"Unavailable <after discovering [Industrial Park]>" 
+			"Unavailable <after discovering [Combustion]>" 
 		]
 	},
     	{
