@@ -11,6 +11,7 @@
 			"Costs [2] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Unavailable <after discovering [Metallurgy>",
 			"Industry"
 		]
 	},
@@ -21,13 +22,12 @@
 		"techRequired": "Metallurgy",
 		"uniques":
 		[
-			
-			"[+2 Happiness] <in [Production Zone] tiles>",
-			"Removes removable features when built <in tiles without [Production Zone]>",
+			"Removes removable features when built",
 			"Costs [3] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
 			"Can only be built <in [Production Zone] tiles>",
+			"Unavailable <after discovering [Industrialization]>",
 			"Industry"
 		]
 	},
@@ -42,7 +42,9 @@
 			"Costs [5] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
-			"Can only be built <in [Production District] tiles>"
+			"Can only be built <in [Production District] tiles>",
+			"Unavailable <after discovering [Replaceable Parts]>",
+			"Industry"
 		]
 	},
     	{
@@ -56,7 +58,9 @@
 			"Costs [6] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
-			"Can only be built <in [Industrial Sector] tiles>"
+			"Can only be built <in [Industrial Sector] tiles>",
+			"Unavailable <after discovering [Combustion]>",
+			"Industry"
 		]
 	},
     	{
@@ -70,7 +74,9 @@
 			"Costs [8] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
-			"Can only be built <in [Industrial Park] tiles>"
+			"Can only be built <in [Industrial Park] tiles>",
+			"Unavailable <after discovering [Computers]>",
+			"Industry"
 		]
 	},
    	{
@@ -84,7 +90,9 @@
 			"Costs [9] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
-			"Can only be built <in [Developed Industrial Sector] tiles>"
+			"Can only be built <in [Developed Industrial Sector] tiles>",
+			"Unavailable <after discovering [Robotics]>",
+			"Industry"
 		]
 	},
     	{
@@ -98,7 +106,9 @@
 			"Costs [11] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
-			"Can only be built <in [Advanced Industrial Sector] tiles>"
+			"Can only be built <in [Advanced Industrial Sector] tiles>",
+			"Unavailable <after discovering [Nanotechnology]>",
+			"Industry"
 		]
 	},
     	{
@@ -112,7 +122,8 @@
 			"Costs [15] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
-			"Can only be built <in [Automated Industrial Sector] tiles>"
+			"Can only be built <in [Automated Industrial Sector] tiles>",
+			"Industry"
 		]
 	},
     
