@@ -23,7 +23,7 @@
 		"requiredTech": "Metallurgy"
 		"uniques": 
                 [
-			"Creates a [Production District] improvement on a specific tile" ,
+			"Creates a [Production District] improvement on a specific tile",
 			"Must have an owned [Production Zone] within [3] tiles", 
 			"Industry"
                 ],
