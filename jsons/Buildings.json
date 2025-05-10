@@ -21,7 +21,6 @@
 		"uniques": 
                 [
 			"Creates a [Production District] improvement on a specific tile",
-			"Must have an owned [Industry] within [3] tiles", 
 			"Remove [Production District] [in this city]",
 			"Unavailable <after discovering [Industrailization]>"
                 ],
@@ -34,7 +33,6 @@
 		[
 			"Creates a [Industrial Sector] improvement on a specific tile" ,
 			"Only available <if [Factory] is constructed> <in this city>",
-			"Must have an owned [Industry] within [3] tiles",
 			"Remove [Industrial Sector] [in this city]",
 			"Unavailable <after discovering [Replaceable Parts>" 
 		]
@@ -46,7 +44,6 @@
 		"uniques":
 		[
 			"Creates a [Industrial Park] improvement on a specific tile" ,
-			"Must have an owned [Industry] within [3] tiles", 
 			"Remove [Industrial Park] [in this city]",
 			"Unavailable <after discovering [Industrial Park]>" 
 		]
@@ -58,7 +55,6 @@
 		"uniques":
 		[
 			"Creates a [Developed Industrial Sector] improvement on a specific tile",
-			"Must have an owned [Industry] within [3] tiles",
 			"Remove [Developed Industrial Sector] [in this city]",
 			"Unavailable <after discovering [Computers]>" 
 		]
@@ -70,7 +66,6 @@
 		"uniques":
 		[
 			"Creates a [Advanced Industrial Sector] improvement on a specific tile",
-			"Must have an owned [Industry] within [3] tiles",
 			"Remove [Advanced Industrial Sector] [in this city]",
 			"Unavailable <after discovering [Robotics]>" 
 		]
@@ -82,7 +77,6 @@
 		"uniques":
 		[
 			"Creates a [Automated Industrial Sector] improvement on a specific tile",
-			"Must have an owned [Industry] within [3] tiles",
 			"Remove [Automated Industrial Sector] [in this city]",
 			"Unavailable <after discovering [Nanotechnology]>" 
 		]
@@ -94,7 +88,8 @@
 		"uniques":
 		[
 			"Creates a [Future Industrial Sector] improvement on a specific tile" ,
-			"Must have an owned [Automated Industrial Sector] within [3] tiles", 
+			"Remove [Automated Industrial Sector] [in this city]",
+			"Unavailable <after discovering [Nanotechnology]>" 
 		]
 	},
 ]
