@@ -10,7 +10,8 @@
 			"Removes removable features when built",
 			"Costs [2] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>"
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Industry"
 		]
 	},
 	{
@@ -22,11 +23,12 @@
 		[
 			
 			"[+2 Production] <in [Production Zone] tiles>",
-			"Removes removable features when built",
+			"Removes removable features when built <in tiles without [Industry]>",
 			"Costs [3] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
-			"Can only be built <in [Production Zone] tiles>"
+			"Can only be built <in [Production Zone] tiles>",
+			"Industry"
 		]
 	},
     	{
