@@ -22,7 +22,7 @@
 		"uniques":
 		[
 			
-			"[+2 Production] <in [Production Zone] tiles>",
+			"[+2 Happiness] <in [Production Zone] tiles>",
 			"Removes removable features when built <in tiles without [Industry]>",
 			"Costs [3] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
