@@ -22,7 +22,7 @@
                 [
 			"Creates a [Production District] improvement on a specific tile",
 			"Remove [Production District] [in this city] <if [Production District] is constructed>",
-			"Unavailable <after discovering [Industrailization]>"
+			"Unavailable <after discovering [Industrialization]>"
                 ],
 	},
     	{
