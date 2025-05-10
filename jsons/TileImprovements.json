@@ -16,10 +16,12 @@
 	{
 		"name": "Production District",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"production": 3,
+		"production": 4,
 		"techRequired": "Metallurgy",
 		"uniques":
 		[
+			
+			"[+2 Production] <in [Production Zone] tiles>",
 			"Removes removable features when built",
 			"Costs [3] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
