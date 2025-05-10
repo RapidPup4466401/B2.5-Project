@@ -23,7 +23,7 @@
 		[
 			
 			"[+2 Happiness] <in [Production Zone] tiles>",
-			"Removes removable features when built <in tiles without [Industry]>",
+			"Removes removable features when built <in tiles without [Production Zone]>",
 			"Costs [3] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
