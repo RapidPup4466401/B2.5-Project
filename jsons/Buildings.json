@@ -88,8 +88,7 @@
 		"uniques":
 		[
 			"Creates a [Future Industrial Sector] improvement on a specific tile" ,
-			"Remove [Automated Industrial Sector] [in this city]",
-			"Unavailable <after discovering [Nanotechnology]>" 
+			"Remove [Future Industrial Sector] [in this city]",
 		]
 	},
 ]
