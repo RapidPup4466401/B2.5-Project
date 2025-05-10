@@ -9,7 +9,7 @@
                 [
 			"Creates a [Production Zone] improvement on a specific tile" ,
 			"Only available <if [Workshop] is constructed> <in this city>",
-			"Remove [Production Zone] [in this city]",
+			"Remove [Production Zone] [in this city] <if [Production Zone] is constructed>",
 			"Unavailable <after discovering [Metallurgy]>"
                 ],
 	},
@@ -21,7 +21,7 @@
 		"uniques": 
                 [
 			"Creates a [Production District] improvement on a specific tile",
-			"Remove [Production District] [in this city]",
+			"Remove [Production District] [in this city] <if [Production District] is constructed>",
 			"Unavailable <after discovering [Industrailization]>"
                 ],
 	},
@@ -33,7 +33,7 @@
 		[
 			"Creates a [Industrial Sector] improvement on a specific tile" ,
 			"Only available <if [Factory] is constructed> <in this city>",
-			"Remove [Industrial Sector] [in this city]",
+			"Remove [Industrial Sector] [in this city] <if [Industrial Sector] is constructed>",
 			"Unavailable <after discovering [Replaceable Parts>" 
 		]
 	},
@@ -44,7 +44,7 @@
 		"uniques":
 		[
 			"Creates a [Industrial Park] improvement on a specific tile" ,
-			"Remove [Industrial Park] [in this city]",
+			"Remove [Industrial Park] [in this city] <if [Industrial Park] is constructed>",
 			"Unavailable <after discovering [Industrial Park]>" 
 		]
 	},
@@ -55,7 +55,7 @@
 		"uniques":
 		[
 			"Creates a [Developed Industrial Sector] improvement on a specific tile",
-			"Remove [Developed Industrial Sector] [in this city]",
+			"Remove [Developed Industrial Sector] [in this city] <if [Developed Industrial Sector] is constructed>",
 			"Unavailable <after discovering [Computers]>" 
 		]
 	},
@@ -66,7 +66,7 @@
 		"uniques":
 		[
 			"Creates a [Advanced Industrial Sector] improvement on a specific tile",
-			"Remove [Advanced Industrial Sector] [in this city]",
+			"Remove [Advanced Industrial Sector] [in this city] <if [Advanced Industrial Sector] is constructed>",
 			"Unavailable <after discovering [Robotics]>" 
 		]
 	},
@@ -77,7 +77,7 @@
 		"uniques":
 		[
 			"Creates a [Automated Industrial Sector] improvement on a specific tile",
-			"Remove [Automated Industrial Sector] [in this city]",
+			"Remove [Automated Industrial Sector] [in this city] <if [Automated Industrial Sector] is constructed>",
 			"Unavailable <after discovering [Nanotechnology]>" 
 		]
 	},
@@ -88,7 +88,7 @@
 		"uniques":
 		[
 			"Creates a [Future Industrial Sector] improvement on a specific tile" ,
-			"Remove [Future Industrial Sector] [in this city]",
+			"Remove [Future Industrial Sector] [in this city] <if [Future Industrial Sector] is constructed>",
 		]
 	},
 ]
