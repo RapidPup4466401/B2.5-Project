@@ -3,7 +3,13 @@
 	"name": "Global uniques",
 	"uniques": 
                 [
-                        "[+10]% [Production] from every [All] <in tiles adjacent to [Industry] tiles>"
+                        "[+10]% [Production] from every [All] <in tiles adjacent to [Industry] tiles>",
+			"[+10]% [Gold] from every [All] <in tiles adjacent to [Commerce] tiles>",
+			"[+10]% [Happiness] from every [All] <in tiles adjacent to [Residential] tiles>",
+			"[+10]% [Culture] from every [All] <in tiles adjacent to [Cultural] tiles>",
+			"[+10]% [{Culture}{Happiness}] from every [All] <in tiles adjacent to [Historical] tiles>",
+			"[+10]% [{Culture}{Happiness}{Gold}] from every [All] <in tiles adjacent to [Entertainment] tiles>",
+			"[+10]% [{Production}{Happiness}] from every [All] <in tiles adjacent to [Transport] tiles>",
                 ]
         }
 ]
