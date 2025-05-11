@@ -123,7 +123,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+5 Production] for each adjacent [Industry]",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Automated Industrial Sector] tiles>",
