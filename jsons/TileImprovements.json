@@ -12,7 +12,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+1 Production] for each adjacent [Industry] <hidden from users>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Unavailable <after discovering [Metallurgy]>",
@@ -27,7 +27,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+2 Production] for each adjacent [Industry] <hidden from users>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Production Zone] tiles>",
@@ -43,7 +43,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+3 Production] for each adjacent [Industry] <hidden from users>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Production District] tiles>",
@@ -59,7 +59,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+4 Production] for each adjacent [Industry] <hidden from users>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Industrial Sector] tiles>",
@@ -75,7 +75,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+6 Production] for each adjacent [Industry] <hidden from users>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Industrial Park] tiles>",
@@ -91,7 +91,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+8 Production] for each adjacent [Industry] <hidden from users>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Developed Industrial Sector] tiles>",
@@ -107,7 +107,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+10 Production] for each adjacent [Industry] <hidden from users>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Advanced Industrial Sector] tiles>",
@@ -123,7 +123,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+5 Production] for each adjacent [Industry]",
+			"[+15 Production] for each adjacent [Industry] <hidden from users>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Automated Industrial Sector] tiles>",
