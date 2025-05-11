@@ -12,7 +12,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Unavailable <after discovering [Metallurgy]>",
@@ -27,7 +27,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Production Zone] tiles>",
@@ -43,7 +43,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Production District] tiles>",
@@ -59,7 +59,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Industrial Sector] tiles>",
@@ -75,7 +75,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Industrial Park] tiles>",
@@ -86,12 +86,12 @@
    	{
 		"name": "Advanced Industrial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"production": 25,
+		"production": 210,
 		"techRequired": "Computers",
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Developed Industrial Sector] tiles>",
@@ -107,7 +107,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Advanced Industrial Sector] tiles>",
@@ -123,7 +123,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
+			"[+10]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Automated Industrial Sector] tiles>",
@@ -141,7 +141,7 @@
    	{
 		"name": "Commerce District",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"gold": 5,
+		"gold": 10,
 		"techRequired": "Industrialization",
 	},
     	{
@@ -165,7 +165,7 @@
 	{
 		"name": "Automated Commercial Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"gold": 25,
+		"gold": 210,
 		"techRequired": "Industrialization",
 	},
 	{
@@ -235,7 +235,7 @@
 	{
 		"name": "Education Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"science": 5,
+		"science": 10,
 		"techRequired": "Industrialization",
 	},
 	{
@@ -259,7 +259,7 @@
 	{
 		"name": "Future Education Sector",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"science": 25,
+		"science": 210,
 		"techRequired": "Industrialization",
 	},
 	
@@ -365,7 +365,7 @@
 		"uniques":
 		[
 			"Removes removable features when built",
-			"Costs [5] [Gold] per turn when in your territory",
+			"Costs [10] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units",
 			"Can only be built <in [Developed Military Base] tiles>"
 		]
@@ -492,7 +492,7 @@
 ///Miscellaneous Entertainment Addons
 	{
 		"name": "Stadium",
-		"culture": 5,
+		"culture": 10,
 		"happiness": 3,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
