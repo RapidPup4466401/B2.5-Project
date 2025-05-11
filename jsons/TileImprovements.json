@@ -325,7 +325,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
-	//Airbase+Dronebase+Seabase+Developed MIlitary Base = Advanced Military Base
+	//Airbase+Dronebase+Seabase+Developed MIlitary Base equals Advanced Military Base
 	{
 		"name": "Airbase",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -446,7 +446,7 @@
 	},
 	
 ///Residential Zones
-//Villages -> Parish -> Slums/Tenements. Slums -> Suburbs, Tenements -> Apartments. Suburbs -> Smart Homes, Apartments -> Skyscrapers -> Future Skyscrapers
+///Villages -> Parish -> Slums/Tenements. Slums -> Suburbs, Tenements -> Apartments. Suburbs -> Smart Homes, Apartments -> Skyscrapers -> Future Skyscrapers
 	{
 		"name": "Village",
 		"terrainsCanBeBuiltOn": ["Land"],
