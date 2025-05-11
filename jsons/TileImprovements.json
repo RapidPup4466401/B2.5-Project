@@ -8,7 +8,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+1 Production] for each adjacent [Industry]",
+			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Costs [2] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
@@ -24,7 +24,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+1 Production] for each adjacent [Industry]",
+			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Costs [3] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
@@ -41,7 +41,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+1 Production] for each adjacent [Industry]",
+			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Costs [5] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
@@ -58,7 +58,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+1 Production] for each adjacent [Industry]",
+			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Costs [6] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
@@ -75,7 +75,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+1 Production] for each adjacent [Industry]",
+			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Costs [8] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
@@ -92,7 +92,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+1 Production] for each adjacent [Industry]",
+			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Costs [9] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
@@ -109,7 +109,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+1 Production] for each adjacent [Industry]",
+			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Costs [11] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
@@ -126,7 +126,7 @@
 		"uniques":
 		[
 			"Removes removable features when built <hidden from users>",
-			"[+1 Production] for each adjacent [Industry]",
+			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
 			"Costs [15] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
