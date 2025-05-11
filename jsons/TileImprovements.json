@@ -7,10 +7,11 @@
 		"techRequired": "Engineering",
 		"uniques":
 		[
-			"Removes removable features when built",
+			"Removes removable features when built <hidden from users>",
+			"[+1 Production] for each adjacent [Industry]",
 			"Costs [2] [Gold] per turn when in your territory",
-			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Will not be replaced by automated units <hidden from users>",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Unavailable <after discovering [Metallurgy]>",
 			"Industry"
 		]
@@ -22,10 +23,11 @@
 		"techRequired": "Metallurgy",
 		"uniques":
 		[
-			"Removes removable features when built",
+			"Removes removable features when built <hidden from users>",
+			"[+1 Production] for each adjacent [Industry]",
 			"Costs [3] [Gold] per turn when in your territory",
-			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Will not be replaced by automated units <hidden from users>",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Production Zone] tiles>",
 			"Unavailable <after discovering [Industrialization]>",
 			"Industry"
@@ -38,10 +40,11 @@
 		"techRequired": "Industrialization",
 		"uniques":
 		[
-			"Removes removable features when built",
+			"Removes removable features when built <hidden from users>",
+			"[+1 Production] for each adjacent [Industry]",
 			"Costs [5] [Gold] per turn when in your territory",
-			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Will not be replaced by automated units <hidden from users>",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Production District] tiles>",
 			"Unavailable <after discovering [Replaceable Parts]>",
 			"Industry"
@@ -54,10 +57,11 @@
 		"techRequired": "Replaceable Parts",
 		"uniques":
 		[
-			"Removes removable features when built",
+			"Removes removable features when built <hidden from users>",
+			"[+1 Production] for each adjacent [Industry]",
 			"Costs [6] [Gold] per turn when in your territory",
-			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Will not be replaced by automated units <hidden from users>",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Industrial Sector] tiles>",
 			"Unavailable <after discovering [Combustion]>",
 			"Industry"
@@ -70,10 +74,11 @@
 		"techRequired": "Combustion",
 		"uniques":
 		[
-			"Removes removable features when built",
+			"Removes removable features when built <hidden from users>",
+			"[+1 Production] for each adjacent [Industry]",
 			"Costs [8] [Gold] per turn when in your territory",
-			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Will not be replaced by automated units <hidden from users>",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Industrial Park] tiles>",
 			"Unavailable <after discovering [Computers]>",
 			"Industry"
@@ -86,10 +91,11 @@
 		"techRequired": "Computers",
 		"uniques":
 		[
-			"Removes removable features when built",
+			"Removes removable features when built <hidden from users>",
+			"[+1 Production] for each adjacent [Industry]",
 			"Costs [9] [Gold] per turn when in your territory",
-			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Will not be replaced by automated units <hidden from users>",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Developed Industrial Sector] tiles>",
 			"Unavailable <after discovering [Robotics]>",
 			"Industry"
@@ -102,10 +108,11 @@
 		"techRequired": "Robotics",
 		"uniques":
 		[
-			"Removes removable features when built",
+			"Removes removable features when built <hidden from users>",
+			"[+1 Production] for each adjacent [Industry]",
 			"Costs [11] [Gold] per turn when in your territory",
-			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Will not be replaced by automated units <hidden from users>",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Advanced Industrial Sector] tiles>",
 			"Unavailable <after discovering [Nanotechnology]>",
 			"Industry"
@@ -118,10 +125,11 @@
 		"techRequired": "Nanotechnology",
 		"uniques":
 		[
-			"Removes removable features when built",
+			"Removes removable features when built <hidden from users>",
+			"[+1 Production] for each adjacent [Industry]",
 			"Costs [15] [Gold] per turn when in your territory",
-			"Will not be replaced by automated units",
-			"Cannot be built on [Hill] tiles <before discovering [Dynamite]>",
+			"Will not be replaced by automated units <hidden from users>",
+			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Automated Industrial Sector] tiles>",
 			"Industry"
 		]
