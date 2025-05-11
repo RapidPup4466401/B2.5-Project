@@ -1,7 +1,5 @@
 [	
-
 /// Check if code Costs eleven Gold per turn when in your territory works properly Else use another means of maintence method
-	
 	
 ///Industy Zones
 	{
@@ -442,7 +440,7 @@
 	},
 	
 ///Residential Zones
-///Villages -> Parish -> Slums/Tenements. Slums -> Suburbs, Tenements -> Apartments. Suburbs -> Smart Homes, Apartments -> Skyscrapers -> Future Skyscrapers
+///Villages to Parish to Slums/Tenements and Slums to Suburbs and Tenements to Apartments and Suburbs to Smart Homes and Apartments to Skyscrapers to Future Skyscrapers
 	{
 		"name": "Village",
 		"terrainsCanBeBuiltOn": ["Land"],
