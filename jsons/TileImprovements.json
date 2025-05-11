@@ -583,7 +583,8 @@
 		"techRequired": "Industrialization",
 	},
 //Individual
-//Airfield is prerequisite to airport, in the sense that it is available in time before airport is. It will enable the construction of aircraft. I want it to only allow simple aircraft to be built but too much modification of base game files required.
+//Airfield is prerequisite to airport, in the sense that it is available in time before airport is. It will enable the construction of aircraft. 
+//I want it to only allow simple aircraft to be built but too much modification of base game files required.
 	{
 		"name": "Airfield",
 		"terrainsCanBeBuiltOn": ["Land"],
