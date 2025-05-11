@@ -1,4 +1,8 @@
 [	
+
+/// Check if code Costs [11] [Gold] per turn when in your territory works properly. Else use another means of maintence method
+	
+	
 ///Industy Zones
 	{
 		"name": "Production Zone",
@@ -9,7 +13,6 @@
 		[
 			"Removes removable features when built <hidden from users>",
 			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
-			"Costs [2] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Unavailable <after discovering [Metallurgy]>",
@@ -25,7 +28,6 @@
 		[
 			"Removes removable features when built <hidden from users>",
 			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
-			"Costs [3] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Production Zone] tiles>",
@@ -42,7 +44,6 @@
 		[
 			"Removes removable features when built <hidden from users>",
 			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
-			"Costs [5] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Production District] tiles>",
@@ -59,7 +60,6 @@
 		[
 			"Removes removable features when built <hidden from users>",
 			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
-			"Costs [6] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Industrial Sector] tiles>",
@@ -76,7 +76,6 @@
 		[
 			"Removes removable features when built <hidden from users>",
 			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
-			"Costs [8] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Industrial Park] tiles>",
@@ -93,7 +92,6 @@
 		[
 			"Removes removable features when built <hidden from users>",
 			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
-			"Costs [9] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Developed Industrial Sector] tiles>",
@@ -110,7 +108,6 @@
 		[
 			"Removes removable features when built <hidden from users>",
 			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
-			"Costs [11] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Advanced Industrial Sector] tiles>",
@@ -127,7 +124,6 @@
 		[
 			"Removes removable features when built <hidden from users>",
 			"[+5]% [Production] <in tiles adjacent to [Industry] tiles>",
-			"Costs [15] [Gold] per turn when in your territory",
 			"Will not be replaced by automated units <hidden from users>",
 			"Cannot be built on [Hill] tiles <before discovering [Dynamite]> <hidden from users>",
 			"Can only be built <in [Automated Industrial Sector] tiles>",
