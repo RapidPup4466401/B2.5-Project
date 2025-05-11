@@ -596,7 +596,7 @@
 		"techRequired": "Industrialization",
 	},
 //Individual
-//Airfield is prerequisite to airport
+#Airfield is prerequisite to airport
 	{
 		"name": "Airfield",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -608,7 +608,7 @@
 		"techRequired": "Industrialization",
 	},
 //Individual
-//Spaceport is prerequisite to space elevator
+#Spaceport is prerequisite to space elevator
 	{
 		"name": "Spaceport",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -621,55 +621,46 @@
 	},
 
 ///Energy Production Sites NOT SURE IF TO BE INTEGRATED YET
-//Individual
 	{
 		"name": "Coal Power Plant",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
-//Individual
 	{
 		"name": "Hydroelectric Power Plant",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
-//Individual
 	{
 		"name": "Nuclear Power Plant",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
-//Individual
 	{
 		"name": "Solar Power Plant",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
-//Individual
 	{
 		"name": "Geothermal Power Plant",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
-//Individual
 	{
 		"name": "Wind Power Plant",
 		"terrainsCanBeBuiltOn": ["Ocean"],
 		"techRequired": "Industrialization",
 	},
-//Individual
 	{
 		"name": "Tidal Power Plant",
 		"terrainsCanBeBuiltOn": ["Coast"],
 		"techRequired": "Industrialization",
 	},
-//Individual
 	{
 		"name": "Gas Power Plant",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
-//Individual
 	{
 		"name": "Biomass Power Plant",
 		"terrainsCanBeBuiltOn": ["Land"],
