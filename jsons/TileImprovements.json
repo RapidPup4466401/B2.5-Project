@@ -583,14 +583,26 @@
 		"techRequired": "Industrialization",
 	},
 //Individual
+//Airfield is prerequisite to airport, in the sense that it is available in time before airport is. It will enable the construction of aircraft. I want it to only allow simple aircraft to be built but too much modification of base game files required.
+	{
+		"name": "Airfield",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
 	{
 		"name": "Airport",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
 //Individual
+//Spaceport is prerequisite to space elevator
 	{
 		"name": "Spaceport",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Space Elevator",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
@@ -623,6 +635,24 @@
 //Individual
 	{
 		"name": "Geothermal Power Plant",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+//Individual
+	{
+		"name": "Wind Power Plant",
+		"terrainsCanBeBuiltOn": ["Land","Coast","Ocean"],
+		"techRequired": "Industrialization",
+	},
+//Individual
+	{
+		"name": "Tidal Power Plant",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"techRequired": "Industrialization",
+	},
+//Individual
+	{
+		"name": "Gas Power Plant",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
