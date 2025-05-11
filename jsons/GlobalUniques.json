@@ -3,7 +3,7 @@
 	"name": "Global uniques",
 	"uniques": 
                 [
-                        [+10]% [Production] from every [All] <in tiles adjacent to [Industry] tiles>
+                        "[+10]% [Production] from every [All] <in tiles adjacent to [Industry] tiles>"
                 ]
         }
 ]
