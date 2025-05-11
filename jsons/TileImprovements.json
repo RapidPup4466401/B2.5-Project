@@ -497,8 +497,16 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrialization",
 	},
+//Colloseum goes from like Classic to Industrial Age then leads into Arenas to Future.
 	{
 		"name": "Colloseum",
+		"culture": 2,
+		"happiness": 1,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Arena",
 		"culture": 2,
 		"happiness": 1,
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -513,6 +521,13 @@
 	},
 	{
 		"name": "Golf Course",
+		"culture": 2,
+		"happiness": 1,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrialization",
+	},
+	{
+		"name": "Theme Park",
 		"culture": 2,
 		"happiness": 1,
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -583,8 +598,7 @@
 		"techRequired": "Industrialization",
 	},
 //Individual
-//Airfield is prerequisite to airport, in the sense that it is available in time before airport is. It will enable the construction of aircraft. 
-//I want it to only allow simple aircraft to be built but too much modification of base game files required.
+//Airfield is prerequisite to airport
 	{
 		"name": "Airfield",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -642,7 +656,7 @@
 //Individual
 	{
 		"name": "Wind Power Plant",
-		"terrainsCanBeBuiltOn": ["Land","Coast","Ocean"],
+		"terrainsCanBeBuiltOn": ["Ocean"],
 		"techRequired": "Industrialization",
 	},
 //Individual
